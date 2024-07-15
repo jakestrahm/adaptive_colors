@@ -1,2 +1,2 @@
 # adaptive_colors
-change background option and colorscheme based on os's display mode (light or dark).
+a neovim plugin to change background option and colorscheme based on os's display mode (light or dark).
